@@ -1,4 +1,4 @@
-# Gabriela Vilela :woman_technologist:
+
 
 <!--
 **gtvilela/gtvilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Gabriela Vilela :woman_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-vilela-38a7b994/)](https://www.linkedin.com/in/gabriela-vilela-38a7b994/)
