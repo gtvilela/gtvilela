@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ![](github-giphy.gif)
 
+
 Hello, World! I`m a software developer.
 
 ![Gabriela Vilela's github stats](https://github-readme-stats.vercel.app/api?username=gtvilela&show_icons=true&theme=great-gatsby)
