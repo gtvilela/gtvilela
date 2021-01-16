@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-vilela-38a7b994/)](https://www.linkedin.com/in/gabriela-vilela-38a7b994/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gabrielathalita)](https://twitter.com/Gabrielathalita)
 
-![](github-joinha.gif)
+<img src="/github-joinha.gif" width="250" height="250"/>
 
 
 Hello, World! I`m a software developer.
