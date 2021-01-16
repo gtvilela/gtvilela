@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Gabriela Vilela :woman_technologist:
 
-Hello, World! I`m a software developer.
-
 ![Welcome](/github-profile.png?raw=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-vilela-38a7b994/)](https://www.linkedin.com/in/gabriela-vilela-38a7b994/)
+
+Hello, World! I`m a software developer.
 
 ![Gabriela Vilela's github stats](https://github-readme-stats.vercel.app/api?username=gtvilela&show_icons=true&theme=great-gatsby)
 
