@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Gabriela Vilela :woman_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-vilela-38a7b994/)](https://www.linkedin.com/in/gabriela-vilela-38a7b994/)
 
-![Welcome](/github-profile.png?raw=true)
+![](github-giphy.gif)
 
 Hello, World! I`m a software developer.
 
