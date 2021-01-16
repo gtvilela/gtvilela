@@ -33,7 +33,15 @@ Hello, World! I`m a software developer and I love to learn new things! These are
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-I love food 🍔🍕, exercising :muscle:, coding 💻, watching series <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/1200px-Netflix_icon.svg.png" width="25" height="25"/> and my dog :dog::two_hearts:
+##I love :two_hearts:
+
+<ul>
+<li>Food 🍔🍕</li>
+<li>Exercising :muscle</li>
+<li>Coding 💻</li>
+<li>Watching series <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-256.png"/></li>
+<li>My dog :dog:</li>
+</ul>
 
 ![Gabriela Vilela's github stats](https://github-readme-stats.vercel.app/api?username=gtvilela&show_icons=true&theme=great-gatsby)
 
