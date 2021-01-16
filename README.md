@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <img src="/github-joinha.gif" width="250" height="250"/>
 
 
-Hello, World! I`m a software developer and I love to learn new things! These are all my knowlegdes in technologies:
-</br>
+Hello, World! I`m a software developer and I love to learn new things! These are all my knowlegdes in technologies:<br>
 
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
