@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary> <b> Things to know about me </b> <i>(Click to expand)</i> </summary>
-    
-    <br>
+    </br>
+
     This is going to be hidden.
  </details>
