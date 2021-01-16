@@ -32,9 +32,8 @@ Hello, World! I`m a software developer and I love to learn new things! These are
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<br>
 
-<br>
-<br>
 ![Gabriela Vilela's github stats](https://github-readme-stats.vercel.app/api?username=gtvilela&show_icons=true&theme=great-gatsby)
 <br>
 ## I love :two_hearts: ##
