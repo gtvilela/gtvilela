@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hello, World! I`m a software developer and I love to learn new things! 
 
-<img src="/github-joinha.gif" width="250" height="250"/>
+<img src="/github-joinha.gif" width="170" height="170"/>
 
 
 
