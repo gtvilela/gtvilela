@@ -41,5 +41,5 @@ Hello, World! I`m a software developer and I love to learn new things! These are
   <summary> <b> Things to know about me </b> <i>(Click to expand)</i> </summary>
     </br>
 
-    I love food 🍔🍕, exercising :muscle:, coding 💻, watching series <img src="https://github.com/JhonatanBergmann/netflix-layout-clone/blob/main/forRDE/icon.png" /> and my dog :dog::two_hearts:
+    I love food 🍔🍕, exercising :muscle:, coding 💻, watching series <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/1200px-Netflix_icon.svg.png" /> and my dog :dog::two_hearts:
  </details>
