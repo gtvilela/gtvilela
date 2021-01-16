@@ -39,7 +39,7 @@ Hello, World! I`m a software developer and I love to learn new things! These are
 <li>Food 🍔🍕</li>
 <li>Exercising :muscle</li>
 <li>Coding 💻</li>
-<li>Watching series <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-256.png"/></li>
+<li>Watching series <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-256.png" width="20" height="20"/></li>
 <li>My dog :dog:</li>
 </ul>
 
