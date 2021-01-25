@@ -51,3 +51,4 @@ Hello, World! I`m a software developer and I love to learn new things!
 ![Gabriela Vilela's github stats](https://github-readme-stats.vercel.app/api?username=gtvilela&show_icons=true&theme=great-gatsby)
 <br>
 
+[![HitCount](http://hits.dwyl.com/gtvilela/https://githubcom/gtvilela/gtvilela.svg)](http://hits.dwyl.com/gtvilela/https://githubcom/gtvilela/gtvilela)
