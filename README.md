@@ -35,8 +35,8 @@ Hello, World! I`m a software developer and I love to learn new things!
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/NextJs-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/NextJs-430098?style=for-the-badge&logo=nextjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-430098?style=for-the-badge&logo=cypress&logoColor=white" />
 
 
 ## I love :two_hearts: ##
