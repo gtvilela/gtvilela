@@ -46,8 +46,17 @@ Hello, World! I`m a software developer and I love to learn new things!
 <li>Exercising :muscle:</li>
 <li>Coding 💻</li>
 <li>Watching series <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-256.png" width="20" height="20"/></li>
-<li>My dog :dog:</li>
+<li>My dogs :dog::dog:</li>
 <li>Reading 📖</li>
+</ul>
+<br>
+
+## Languages :earth_americas::speech_balloon: ##
+
+<ul>
+<li>Français <img src="https://static.todamateria.com.br/upload/fr/an/frana_a.jpg" width="5" height="3"/></li>
+<li>Português <img src="https://www.infoescola.com/wp-content/uploads/2011/02/bandeira-do-brasil.gif" width="5" height="3"/></li>
+<li>English <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" width="5" height="3"/></li>
 </ul>
 <br>
 
