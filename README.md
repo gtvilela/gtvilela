@@ -54,9 +54,9 @@ Hello, World! I`m a software developer and I love to learn new things!
 ## Languages :earth_americas::speech_balloon: ##
 
 <ul>
-<li>Français <img src="https://static.todamateria.com.br/upload/fr/an/frana_a.jpg" width="5" height="3"/></li>
-<li>Português <img src="https://www.infoescola.com/wp-content/uploads/2011/02/bandeira-do-brasil.gif" width="5" height="3"/></li>
-<li>English <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" width="5" height="3"/></li>
+<li>Português <img src="https://www.infoescola.com/wp-content/uploads/2011/02/bandeira-do-brasil.gif" width="20" height="14"/></li>
+<li>English <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" width="20" height="14"/></li>
+<li>Français <img src="https://static.todamateria.com.br/upload/fr/an/frana_a.jpg" width="20" height="14"/></li>
 </ul>
 <br>
 
