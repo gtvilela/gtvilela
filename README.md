@@ -34,10 +34,13 @@ Hello, World! I`m a software developer and I love to learn new things! Here you 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=nextjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypress-4EA94B?style=for-the-badge&logo=cypress&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Kubernetes-3492F6?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-6DA9BD?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-00B5EA?style=for-the-badge&logo=azure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-F7C73F?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-5E2AA1?style=for-the-badge&logo=datadog&logoColor=white" />
 
 ## I love :two_hearts: ##
 
